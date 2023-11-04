@@ -3,3 +3,5 @@
 # Testando o git status
 
 ## salvando modificações no git
+
+* uso do comando push
