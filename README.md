@@ -2,4 +2,4 @@
 ## Gravando mudança no repositório
 # Testando o git status
 
-## salvando modificações no gitgit
+## salvando modificações no git
