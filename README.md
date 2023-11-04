@@ -6,3 +6,4 @@
 
 * uso do comando push
 * uso do comando pull
+* comando fetch
